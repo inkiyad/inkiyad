@@ -1,4 +1,5 @@
-### 👋 Hi there, I'm Gazi!
+## 👋 Hi there, I'm Gazi!
+---
 
 🎓 I’m a master’s student at [Cornell Tech](https://www.tech.cornell.edu), studying electrical and computer engineering. I previously graduated from [the City College of New York](https://www.ccny.cuny.edu) with a Bachelor of Engineering in biomedical engineering and a minor in mathematics.
 
