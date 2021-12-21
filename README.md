@@ -1,11 +1,12 @@
 ### 👋 Hi there, I'm Gazi!
-[Linkedin](https://www.linkedin.com/in/ginkiyad/)
 
 I’m a master’s student at [Cornell Tech](https://www.tech.cornell.edu), studying electrical and computer engineering. I previously graduated from [the City College of New York](https://www.ccny.cuny.edu) with a Bachelor of Engineering in biomedical engineering and a minor in mathematics.
 
+Reach out to me via [Linkedin](https://www.linkedin.com/in/ginkiyad/)
 
+<img align="left" alt="Kishan Tailor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=inkiyad34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inkiyad)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inkiyad)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
