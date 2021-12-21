@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I'm Gazi!
+[Linkedin](https://www.linkedin.com/in/ginkiyad/)
+
+I’m a master’s student at [Cornell Tech](https://www.tech.cornell.edu), studying electrical and computer engineering. I previously graduated from [the City College of New York](https://www.ccny.cuny.edu) with a Bachelor of Engineering in biomedical engineering and a minor in mathematics.
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inkiyad)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **inkiyad/inkiyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
